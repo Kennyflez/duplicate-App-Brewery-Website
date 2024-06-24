@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+.header-nav{
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+.Website{
+    padding-bottom: 24px;
+}
+
+ ul > li{
+    display: inline;
+    padding: 8px;
+}
+
+ul > li > a{
+    text-decoration: none;
+    color: white;
+}
+
+.body-content{
+    text-align: center;
+    padding: 24px 8px;
+}
+
+.body-content > h2{
+    padding-bottom: 12px;
+}
+
+.descript{
+    font-weight: 600;
+    padding-bottom: 8px;
+}
+
+button{
+    background-color: crimson;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: none;
+}
+
+#footer{
+    color: white;
+    background-color: crimson;
+    padding: 24px;
+    text-align: center;
+}
